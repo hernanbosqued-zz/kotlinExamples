@@ -13,6 +13,7 @@ class Adapter: RecyclerView.Adapter<Adapter.MyViewHolder>() {
         add("cristian")
         add("guche")
         add("mati")
+        add("jorge")
     }
 
     override fun onCreateViewHolder(viewGroup: ViewGroup, viewType: Int): MyViewHolder {
